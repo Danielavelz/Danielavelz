@@ -49,7 +49,7 @@
 I am passionate about turning data into meaningful insights that drive better decisions.  
 I enjoy combining analytical thinking with practical solutions to improve processes and create value.  
 
-In my free time, I enjoy playing games, recreating and developing game programs, and reading about games, philosophy, and finance.  
+In my free time, I enjoy playing shooter games and solving puzzles. I also like recreating and developing simple game programs, creating pixel art with Python, and reading about philosophy and finance.  
 
 ✨ *Let’s connect and build something impactful together!*   
 
