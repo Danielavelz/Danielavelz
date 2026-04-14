@@ -53,7 +53,7 @@ In my free time, I enjoy playing games, recreating and developing game programs,
 
 ✨ *Let’s connect and build something impactful together!*   
 
-    </td>
+ 
   </tr>
 </table>
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
